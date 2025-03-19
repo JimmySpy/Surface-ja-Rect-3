@@ -6,7 +6,6 @@ Koodis tuleb rakendada kokkupõrke tuvastamist Pygame'i abil, kus mängija objek
 **Lühikirjeldus:** 
 Rakendus loob ekraanile mängija objekti ja juhuslikult genereeritud vaenlased. Mängija liigub etteantud suunas ja peegeldub ekraani äärest tagasi. Kui mängija puudutab vaenlast, eemaldatakse see nimekirjast ning lisatakse punkt.
 
-**GitHub link:** Ei ole hetkel saadaval.
 
 **Töötasin:** 
 Töötasin üksi.
